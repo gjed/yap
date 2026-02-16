@@ -1,5 +1,5 @@
-| Build Target           | Value                     |
-|------------------|---------------------------|
+| Build Target     | Value                     |
+| ---------------- | ------------------------- |
 | `alpine`         | all Alpine Linux releases |
 | `arch`           | all Arch Linux releases   |
 | `amazon`         | all Amazon Linux releases |
